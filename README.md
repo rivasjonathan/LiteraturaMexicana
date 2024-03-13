@@ -11,3 +11,5 @@ Este repositorio digital está dedicado a la recopilación y estudio de diversos
 #### Integrantes:
 - Aldo Suarez Plata
 - Jonathan Arroyo Rivas
+
+![Roxanna](https://www.mexicoescultura.com/galerias/actividades/principal/29744805_192264988168185_1273850555060190827_o.jpg)
