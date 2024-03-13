@@ -1,4 +1,4 @@
-# Escuela Normal de Atlacomulco "Profesora Evangelina Alcantára Díaz"
+## Escuela Normal de Atlacomulco "Profesora Evangelina Alcantára Díaz"
 
 ## Licenciatura en Enseñanza y Aprendizaje del Español en Educación Secundaria
 
