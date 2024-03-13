@@ -4,7 +4,7 @@
 
 ### Literatura Mexicana
 
-#### REPOSITORIO DIGITAL
+# REPOSITORIO DIGITAL
 
 Este repositorio digital está dedicado a la recopilación y estudio de diversos aspectos de la literatura mexicana, abarcando desde la poesía y el teatro prehispánico, hasta las crónicas de la colonización y la poesía del Barroco.
 
