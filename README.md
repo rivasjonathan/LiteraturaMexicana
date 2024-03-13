@@ -1,8 +1,8 @@
 ## Escuela Normal de Atlacomulco "Profesora Evangelina Alcantára Díaz"
 
-## Licenciatura en Enseñanza y Aprendizaje del Español en Educación Secundaria
+### Licenciatura en Enseñanza y Aprendizaje del Español en Educación Secundaria
 
-### Literatura Mexicana
+## Literatura Mexicana
 
 # REPOSITORIO DIGITAL
 
